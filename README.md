@@ -4,8 +4,7 @@
 
 - 🔭 Buscando aprimorar minhas habilidades.
 - 👨🏻‍💻 Atualmente estudando Lua para a produção de jogos 2d simples.
-- 🤯 Aceitando dicas abertamente. 
-- 💬 Pronouns: ele/dele.
+- 🤯 Aceitando dicas abertamente.
  
  <div>
   <a href="https://github.com/sla13">
