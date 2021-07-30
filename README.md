@@ -3,7 +3,7 @@
 
 
 - 🔭 Buscando aprimorar minhas habilidades.
-- 👨🏻‍💻 Atualmente estudando Lua para a produção de jogos 2d simples.
+- 👨🏻‍💻 Atualmente estudando C# para criação de jogos.
 - 🤯 Aceitando dicas abertamente.
  
  <div>
@@ -13,10 +13,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lua" height="80" width="200"  src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  
   <img align="center" alt="vs-code" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
-  <!--<img align="center" alt="Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tiled/tiled-plain.svg">
--->
+  <img align="center" alt="vs-code" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  
+
   
 </div>
  
