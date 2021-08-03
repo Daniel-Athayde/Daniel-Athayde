@@ -1,9 +1,9 @@
-### Opa! Eu Sou o Daniel Athayde 👋
+### Opa! Eu Sou o Daniel Athayde
 
 
 
 - 🔭 Buscando aprimorar minhas habilidades.
-- 👨🏻‍💻 Atualmente estudando lua para criação de jogos.
+- 👨🏻‍💻 Atualmente estudando criação de jogos.
 - 🤯 Aceitando dicas abertamente.
  
  <div>
@@ -14,8 +14,9 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="vs-code" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
-  <img align="center" alt="vs-code" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+  <!-- <img align="center" alt="vs-code" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+ <img align="center" alt="vs-code" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+-->
   
 
   
