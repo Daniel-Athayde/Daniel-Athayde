@@ -3,7 +3,7 @@
 
 
 - 🔭 Buscando aprimorar minhas habilidades.
-- 👨🏻‍💻 Atualmente estudando criação de jogos.
+- 👨🏻‍💻 Atualmente estudando.
 - 🤯 Aceitando dicas abertamente.
  
  <div>
